@@ -1,0 +1,1 @@
+# -Predicting-Vehicle-to-Grid-V2G-Revenue-Potential-in-Germany
